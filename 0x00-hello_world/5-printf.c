@@ -2,7 +2,7 @@
 /**
  * main - A program that prints with printf
  *
- * Return - 0(Success)
+ * Return: 0(Success)
  */
 int main(void)
 {
