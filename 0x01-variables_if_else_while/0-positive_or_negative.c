@@ -3,6 +3,7 @@
 #include <stdio.h>
 /**
  * main - Entry point
+ * Frederick Asiamah
  * Return: Always 0
  */
 int main(void)
