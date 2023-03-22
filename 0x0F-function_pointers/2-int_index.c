@@ -2,7 +2,7 @@
 
 /**
  * int_index - searches for an integer
- *
+ * owner - frederick
  * @array: array of integers
  * @size: number of elements in array
  * @cmp: pointer to the function
