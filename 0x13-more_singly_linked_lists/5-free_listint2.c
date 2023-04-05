@@ -4,7 +4,7 @@
 /**
  * free_listint2 - frees a list
  *
- * @head: pointer to the head node
+ * @head: double pointer
  *
  * Return: void
  */
